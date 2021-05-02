@@ -2,7 +2,7 @@
 Inyección de dependencias en Unity 💉 | Zenject / Extenject - Desarrollo de videojuegos #4  ▶️ | God of Programming
 
 ## 1. Vídeo demo ▶️
-En este vídeo explico cómo utilizar Zenject/Extenject en tu proyecto de Unity y cuáles son las ventajas del patrón inyección de dependencias:
+En este vídeo explico cómo utilizar Zenject/Extenject en tu proyecto de Unity y cuáles son las ventajas del patrón inyección de dependencias para cumplir con el principio de inversión de dependencias (Dependency inversion), la 'D' de los 5 principios SOLID:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=fCIugMLfTqM" target="_blank">
